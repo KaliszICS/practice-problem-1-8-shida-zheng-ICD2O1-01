@@ -10,7 +10,6 @@
 </br>
 
 3. Ask the user, "Enter a number: ".  Check if the number is between 0 and 10 (Inclusively). Output True if it is.  False otherwise.
-
 </br>
 
 4. Ask the user to "Input food: ".  Then ask them to "Input drink: ".  If they input pizza and pop as their inputs, Output False.  Otherwise output True.
