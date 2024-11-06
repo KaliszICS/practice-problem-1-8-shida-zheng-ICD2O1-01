@@ -8,6 +8,15 @@ def q1():
 def q2():
   #Write Assignment code here
   num = int(input("Enter an integer: "))
+def q1():
+  #Write Assignment code here
+  bool1 = "True"
+  bool2 = "False"
+  print(bool1 and bool2)
+  print(bool1 or bool2)
+def q2():
+  #Write Assignment code here
+  num = int(input("Enter an integer: "))
   if num == 0:
     print("False")
   else:
@@ -42,3 +51,4 @@ def q5():
 #q3()
 #q4()
 #q5()
+
