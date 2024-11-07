@@ -441,4 +441,3 @@ def test_q5_5(capsys):
 	PP1_8.q5()
 	captured = capsys.readouterr()
 	assert captured.out == "Enter an integer: The integer -2 is True.\n"
-
