@@ -1,5 +1,5 @@
 
-def q1():
+def q1():  
   #Write Assignment code here
   bool1 = "True"
   bool2 = "False"
