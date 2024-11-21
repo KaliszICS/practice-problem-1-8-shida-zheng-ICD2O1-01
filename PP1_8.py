@@ -31,9 +31,9 @@ def q5():
   #Write Assignment code here
   num = int(input("Enter an integer: "))
   if num % 2 == 0: 
-    print(f"The integer {num} is True.")
+    print(f"The integer {num} is True")
   else:
-    print(f"The integer {num} is False.")
+    print(f"The integer {num} is False")
 #Do not edit code after this
 #Comment out the followwing code when running tests
 
